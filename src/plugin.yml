@@ -1,0 +1,6 @@
+name: BorderPlugin
+version: 1.0
+main: fr.tetemh.borderplugin.Main
+commands:
+  setborder:
+    description: set border
